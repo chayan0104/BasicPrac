@@ -3,6 +3,7 @@ public class ReverseNo {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("enter the  no: ");
        int no = sc.nextInt();
         //int no =1234;
         int rev=0;
